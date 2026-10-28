@@ -1,2 +1,1 @@
-print("hello world ak 1")
-print("hi good morning")
+print("hello world ak 15")
